@@ -130,7 +130,8 @@
   <img width="15" />
   <img src="https://img.shields.io/badge/Google Cloud-4285F4?logo=googlecloud&logoColor=white&style=for-the-badge" height="30" alt="googlecloud logo"  />
 </div>
-###
+
+##
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/astro1sumit/astro1sumit/output/pacman-contribution-graph-dark.svg">
