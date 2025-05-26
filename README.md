@@ -4,7 +4,7 @@
 <h4 align="center">A passionate Web Developer From India 🇮🇳</h4>
 
 <h1 align="left">💫 About Me:</h1>
-<img align="right" height="350" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"  />
+<img align="right" height="300" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"  />
 <p align="left">🔭 I’m currently working on Myself<br><br>🌱 I’m currently learning Next js, Node js and TypeScript<br><br>👨‍💻 All of my projects are available at https://github.com/astro1sumit<br><br>📝 I regularly solving problems on https://leetcode.com/u/ASTROSUMIT/<br><br>💬 Ask me about Javascript, React, java, DSA.<br><br>📫 How to reach me sumitkushwaha00001@gmail.com<br><br>📄 Know about my experiences https://www.linkedin.com/in/sumit-maurya-57191a255/</p>
 
 <h1 align="left">🌐 Socials:</h1>
@@ -130,6 +130,13 @@
   <img width="15" />
   <img src="https://img.shields.io/badge/Google Cloud-4285F4?logo=googlecloud&logoColor=white&style=for-the-badge" height="30" alt="googlecloud logo"  />
 </div>
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/astro1sumit/astro1sumit/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/astro1sumit/astro1sumit/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/astro1sumit/astro1sumit/output/pacman-contribution-graph.svg">
+</picture>
 
 
 ## 🏆 GitHub Trophies
@@ -138,15 +145,5 @@
 ## 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=astro1sumit&limit=5&theme=onedark&combine_all_yearly_contributions=true)
 
-
-###
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/astro1sumit/astro1sumit/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/astro1sumit/astro1sumit/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/astro1sumit/astro1sumit/output/pacman-contribution-graph.svg">
-</picture>
 
 
