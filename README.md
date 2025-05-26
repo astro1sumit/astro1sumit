@@ -1,37 +1,13 @@
-<img align="center" height="300" src="https://user-images.githubusercontent.com/76155456/155187006-4ef09ed3-3869-499f-84c3-7bdaa68f73d4.png"  />
-
-###
-
-<br clear="both">
+<img width="1000px" src="https://user-images.githubusercontent.com/76155456/155187006-4ef09ed3-3869-499f-84c3-7bdaa68f73d4.png"  />
 
 <h1 align="center">Hey Everyone 👋, I'm Sumit.</h1>
-
-###
-
-<br clear="both">
-
 <h4 align="center">A passionate Web Developer From India 🇮🇳</h4>
 
-###
-
-<h2 align="left">💫 About Me:</h2>
-
-###
-
+<h1 align="left">💫 About Me:</h1>
+<img align="right" height="350" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"  />
 <p align="left">🔭 I’m currently working on Myself<br><br>🌱 I’m currently learning Next js, Node js and TypeScript<br><br>👨‍💻 All of my projects are available at https://github.com/astro1sumit<br><br>📝 I regularly solving problems on https://leetcode.com/u/ASTROSUMIT/<br><br>💬 Ask me about Javascript, React, java, DSA.<br><br>📫 How to reach me sumitkushwaha00001@gmail.com<br><br>📄 Know about my experiences https://www.linkedin.com/in/sumit-maurya-57191a255/</p>
 
-###
-
-<h2 align="left">🌐 Socials:</h2>
-
-###
-
-<br clear="both">
-
-<img align="right" height="200" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"  />
-
-###
-
+<h1 align="left">🌐 Socials:</h1>
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
@@ -41,28 +17,14 @@
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
 </div>
 
-###
-
-<br clear="both">
-
-<h2 align="left">📊 GitHub Stats:</h2>
-
-###
-
-<br clear="both">
-
+<h1 align="left">📊 GitHub Stats:</h1>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=astro1sumit&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=blue-green&hide_border=false" height="150" alt="languages graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=astro1sumit&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=blue-green&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=astro1sumit&locale=en&mode=daily&theme=blue-green&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=astro1sumit&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=blue-green&hide_border=false" height="250" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=astro1sumit&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=blue-green&locale=en&hide_border=false" height="250" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=astro1sumit&locale=en&mode=daily&theme=blue-green&hide_border=false&border_radius=5" height="250" alt="streak graph"  />
 </div>
 
-###
-
-<h2 align="left">💻 Tech Stack:</h2>
-
-###
-
+<h1 align="left">💻 Tech Stack:</h1>
 <div align="center">
   <img src="https://img.shields.io/badge/Amazon AWS-232F3E?logo=amazonwebservices&logoColor=FF9900&style=for-the-badge" height="25" alt="amazonwebservices logo"  />
   <img width="15" />
@@ -168,13 +130,11 @@
   <img width="15" />
   <img src="https://img.shields.io/badge/Google Cloud-4285F4?logo=googlecloud&logoColor=white&style=for-the-badge" height="25" alt="googlecloud logo"  />
 </div>
-
 ###
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/astro1sumit/astro1sumit/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/astro1sumit/astro1sumit/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/astro1sumit/astro1sumit/output/pacman-contribution-graph.svg">
 </picture>
-
-###
