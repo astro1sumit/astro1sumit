@@ -5,7 +5,7 @@
 
 <h1 align="left">💫 About Me:</h1>
 <img align="right" height="300" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"  />
-<p align="left">🔭 I’m currently working on Myself<br><br>🌱 I’m currently learning Next js, Node js and TypeScript<br><br>👨‍💻 All of my projects are available at https://github.com/astro1sumit<br><br>📝 I regularly solving problems on https://leetcode.com/u/ASTROSUMIT/<br><br>💬 Ask me about Javascript, React, java, DSA.<br><br>📫 How to reach me sumitkushwaha00001@gmail.com<br><br>📄 Know about my experiences https://www.linkedin.com/in/sumit-maurya-57191a255/</p>
+<p align="left">🔭 I’m currently working on Myself<br><br>🌱 I’m currently learning Next js, Node js and TypeScript<br><br>👨‍💻 All of my projects are available at https://my-website-beta-beige.vercel.app/<br><br>📝 I regularly solving problems on https://leetcode.com/u/ASTROSUMIT/<br><br>💬 Ask me about Javascript, React, java, DSA.<br><br>📫 How to reach me sumitkushwaha00001@gmail.com<br><br>📄 Know about my experiences https://www.linkedin.com/in/sumit-maurya-57191a255/</p>
 
 <h1 align="left">🌐 Socials:</h1>
 <p align="center">
